@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8 "?>
+<liste>
+    <livre xml:lang="fr">
+        <titre> XML </titre>
+        <auteur> Harold </auteur>
+        <auteur> Means </auteur>
+    </livre>
+    <livre>
+        <titre> Quantum Computation </titre>
+        <auteur> Nielsen </auteur>
+    </livre>
+</liste>
